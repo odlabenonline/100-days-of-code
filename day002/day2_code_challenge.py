@@ -1,4 +1,4 @@
-# ########### CODE CHALLENGE 1
+#TODO: 1 ########### CODE CHALLENGE 1
 # #Don't change the code below
 # two_digit_number = input("Type a two digit number")
 # #Dont change the code above
@@ -17,7 +17,7 @@
 #
 #
 #
-# ######## CODE CHALLENGE 2
+#TODO: 2 ######## CODE CHALLENGE 2
 # # Don't change the code below
 # height = input("enter your height in m: ")
 # weight = input("enter your weight in kg: ")
@@ -30,7 +30,7 @@
 
 
 
-# ########## CODING CHALLENGE 3
+#TODO: 3 ########## CODING CHALLENGE 3
 # # Don't change the code below
 # age = input("What is your current age? ")
 # # Dont change the code above
@@ -50,7 +50,7 @@
 # print(f"You have {days_left} days, {weeks_lef10t} weeks, and {months_left} months left")
 
 
-############# Final Quiz Code Challenge #################
+#TODO: Final ############# Final Quiz Code Challenge #################
 # Welcome to the tip calculator
 # What was the total bill? $124.56
 # What percentage tip would you like to give? 10, 12, or 15?
