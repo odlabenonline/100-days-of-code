@@ -1,3 +1,6 @@
+# Write a code to switch or swap the content of two variables
+# The trick is to introduced a 3rd variable
+
 #Don't change the code below
 a = input("a: ")
 b = input("b: ")
