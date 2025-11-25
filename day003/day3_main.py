@@ -13,3 +13,6 @@ else:
     # Equal to ==           Not equal to !=
 
 
+### Note the use lower() and count() functions
+### lower() is used to convert a set of strings into lowercase letters
+### count() is used to count the number of time a character apears in a string
