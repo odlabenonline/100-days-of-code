@@ -133,18 +133,22 @@
 #     turn_left()
 #     turn_left()
 #
-# while front_is_clear():
+#
+# def jump_hurdle():
+#     turn_right()
 #     move()
-# turn_left()
+#     turn_right()
+#     move()
+#     turn_left()
 #
 #
-# while not at_goal():
-#     if right_is_clear():
-#         turn_right()
-#         move()
-#     elif front_is_clear():
-#         move()
-#     else:
-#         turn_left()
+# for i in range(1, 7):
+#     move()
+#     turn_left()
+#     move()
+#     jump_hurdle()
 #
-# #### This code test the program agains various world scenarios
+# IN THE ABSENCE OF FOR LOOP, we could use WHILE LOOP as defined below
+#
+#
+#
