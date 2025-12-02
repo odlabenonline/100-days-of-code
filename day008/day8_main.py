@@ -14,7 +14,7 @@
 # #
 # # #Function that allows for input
 # #
-# # def greet_with_name(name): #Name in the function is argument
+# # def greet_with_name(name): # Name in the function as a data type is a parameter and the value passed when called is argument
 # #     print(f"Hello {name}")
 # #     print(f"How do you do {name}")
 # #
