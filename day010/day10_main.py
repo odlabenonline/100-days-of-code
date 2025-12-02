@@ -21,3 +21,9 @@ print(formated_string)
 #
 
 #### DOCSTRINGS ################
+# DocStrings are also used in documenting functions
+# Docstrings can be used for multi-line commenting
+
+
+
+######## PRINT vs RETURN #############
