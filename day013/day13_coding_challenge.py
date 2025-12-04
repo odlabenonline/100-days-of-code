@@ -1,24 +1,34 @@
-# number = int(input("Which number do you want to check?"))
-#
-# if number % 2 == 0:
-#     print("This is an even number.")
-# else:
-#     print("This is an odd number.")
-#
-#
-#
-#
-#
-####### LEAP YEAR ##############
-year = int(input("Which year do you want to check?f"))
+# # number = int(input("Which number do you want to check?"))
+# #
+# # if number % 2 == 0:
+# #     print("This is an even number.")
+# # else:
+# #     print("This is an odd number.")
+# #
+# #
+# #
+# #
+# #
+# ####### LEAP YEAR ##############
+# year = int(input("Which year do you want to check?f"))
 
-if year % 4 == 0:
-    if year % 100 == 0:
-        if year % 400 == 0:
-            print("Leap Year.")
-        else:
-            print("Not Leap year")
+# if year % 4 == 0:
+#     if year % 100 == 0:
+#         if year % 400 == 0:
+#             print("Leap Year.")
+#         else:
+#             print("Not Leap year")
+#     else:
+#         print("Leap year")
+# else:
+#     print("Not leap year")
+
+for number in range(1, 101):
+    if number % 3 == 0 and number % 5 == 0:
+        print("FizzBuzz")
+    elif number % 3 == 0:
+        print("Fizz")
+    elif number % 5 == 0:
+        print("Buzz")
     else:
-        print("Leap year")
-else:
-    print("Not leap year")
+        print(number)
